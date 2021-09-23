@@ -10,4 +10,4 @@ Just some Windows audio media (\*.wav), contain :
 
 SC = `C:/Windows`
 
-_sry, ma english r bad_
+_sry, ma english r bad. U can open PR for helping me rewrite this readme :)_
