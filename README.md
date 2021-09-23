@@ -9,3 +9,5 @@ Just some Windows audio media (\*.wav), contain :
 **Windows 10 btw**
 
 SC = `C:/Windows`
+
+_sry, ma english r bad_
