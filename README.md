@@ -4,7 +4,7 @@ Just some Windows audio media (\*.wav), contain :
 - Alarm
 - Ring
 - Notification
-- more, idk, just look n hear!
+- more, idk, just open n hear!
 
 **Windows 10 btw**
 
